@@ -80,13 +80,13 @@ logo = """
 
 ---------------------------------------------
 \033[1;96m|-------+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-----|
-\033[1;96m|               Pak Anonymous               |
+\033[1;96m|               Bd Anonymous               |
 \033[1;96m|This Tool is Only for Bangladesh FB Acounts|
 \033[1;96m|------+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+------|
 
-\033[1;91m [⚡\033[1;97mAuthor Name: Babar Ali     ⚡\033[1;91m]
-\033[1;91m [⚡\033[1;97mYutube Chnl: Pak Anonymous ⚡\033[1;91m]
-\033[1;91m [⚡       \033[1;97mFrom: Pakistan      ⚡\033[1;91m]
+\033[1;91m [⚡\033[1;97mAuthor Name:Muhmmad Zihad Ahmad    ⚡\033[1;91m]
+\033[1;91m [⚡\033[1;97mYutube Chnl: Zihad9t9   ⚡\033[1;91m]
+\033[1;91m [⚡       \033[1;97mFrom: Bangladesh       ⚡\033[1;91m]
 \033[1;95m«-_-_-_-_-_-_-_-_-\033[1;91mHuntter\033[1;95m-_-_-_-_-_-_-_-_-»
 """
 
